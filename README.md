@@ -1,5 +1,6 @@
 # Standalone Windows Executable Version of Python App Bundle Shield
 
+[![DOI](https://zenodo.org/badge/909671543.svg)](https://doi.org/10.5281/zenodo.14568996)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.8.10-blue)](https://www.python.org/downloads/release/python-3810/)
 [![Windows Support](https://img.shields.io/badge/windows-7%2B-brightgreen.svg)](#system-requirements)
