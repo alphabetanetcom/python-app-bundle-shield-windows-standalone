@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: Standalone Windows Executable Version of Python App Bundle Shield
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel
+    family-names: Izosimov
+    affiliation: Alpha Beta Network
+    orcid: 'https://orcid.org/0009-0004-7126-6743'
+    website: 'https://alphabetanet.com'
+repository-code: >-
+  https://github.com/alphabetanetcom/python-app-bundle-shield-windows-standalone
+url: 'https://alphabetanet.com/'
+repository: >-
+  https://gitlab.com/alphabetanetcom/python-app-bundle-shield-windows-standalone
+repository-artifact: >-
+  https://github.com/alphabetanetcom/python-app-bundle-shield-windows-standalone/releases
+abstract: >-
+  The Standalone Windows Executable Version of Python App Bundle
+  Shield is a dedicated Windows application designed to help
+  developers create standalone protected applications and 
+  executable files from Python scripts of varying complexity. 
+  Prepared specifically for Windows using the Python App Bundle 
+  Shield, this version is based on Python 3.8.10 and supports 
+  both 32-bit and 64-bit systems running Windows 7 and newer.
+
+keywords:
+  - windows app
+  - python security
+  - app protection
+  - code protection
+  - python executable
+  - standalone application
+  - python bundler
+  - cross platform development
+  - encryption tool
+  - license management
+  - secure distribution
+version: v1.3-beta.1
+date-released: '2024-12-29'
+license-url: 'https://github.com/alphabetanetcom/python-app-bundle-shield-windows-standalone/blob/main/LICENSE.md'
