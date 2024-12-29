@@ -81,7 +81,8 @@ This tool is ideal for developers who need to distribute Python applications to 
 Download the latest release of the **Standalone Windows Executable Version of Python App Bundle Shield** from the GitHub Releases section:
 
 - **Repository**: [python-app-bundle-shield-windows-standalone](https://github.com/alphabetanetcom/python-app-bundle-shield-windows-standalone)
-- **Releases**: Navigate to the **Releases** section and download the appropriate version for your system.
+- **Releases**: Navigate to the [**Releases**](https://github.com/alphabetanetcom/python-app-bundle-shield-windows-standalone/releases
+) section and download the appropriate version for your system.
 
 ## Running the Application
 
