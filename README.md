@@ -159,7 +159,7 @@ If your script uses external modules or packages installed via `pip`, or if you 
 When packaging scripts protected by Alpha Beta Network cloud tools:
 
 1. **Obtain Protected Script**:
-   - Use tools like [Python Obfuscator Online](https://obfuscator.alphabetanet.com/) to protect your script.
+   - Use tools like [Python Obfuscator Online](http://obfuscator.alphabetanet.com/) to protect your script.
 
 2. **Select Your Protected Python File**:
    - Choose the protected `.py` file.
@@ -207,7 +207,7 @@ This example demonstrates the application’s capability to produce standalone e
 
 Enhance your application's security and functionality by integrating with other tools from the **Alpha Beta Network**:
 
-- **[Python Obfuscator Online](https://obfuscator.alphabetanet.com/)**:
+- **[Python Obfuscator Online](http://obfuscator.alphabetanet.com/)**:
   - Use for advanced cloud-based code obfuscation and protection before packaging.
 
 - **[Secure Python Code Manager Script](https://github.com/alphabetanetcom/secure-python-code-manager)**:
